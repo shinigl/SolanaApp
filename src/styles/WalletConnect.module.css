@@ -1,0 +1,17 @@
+.walletContainer {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
